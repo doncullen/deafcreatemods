@@ -1,3 +1,11 @@
-# Personal mods to ignore
-journeymap*
-Opti*
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!architectury*
+!CraftTweaker*
+!create*
+!flywheel*
+!ftb*
+!jei*
